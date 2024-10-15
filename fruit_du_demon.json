@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "0",
+    "name": "Fruit de l'Humain, version Nika",
+    "nameEn": "Human-Human Fruit, Model: Nika",
+    "nameJp": "Hito Hito no Mi, Moderu Nika",
+    "type": "Zoan Mythique",
+    "first_usage": [
+      "Chapitre 1044",
+      "Épisode 1071"
+    ],
+    "first_apparition": [
+      "Chapitre 1044",
+      "Épisode 1071"
+    ],
+    "current_user": "Monkey D Luffy",
+    "previous_user": "Joy Boy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Gomu_Gomu_no_Mi_Fruit.png/revision/latest?cb=20190403191529&path-prefix=fr"
+  },
+  {
+    "_id": "1",
+    "nameFr": "Fruit du Gum-Gum",
+    "nameEn": "Gum-Gum Fruit",
+    "nameJp": "Gomu Gomu no Mi",
+    "type": "Paramecia",
+    "first_usage": [
+      "Chapitre 1",
+      "Épisode 1"
+    ],
+    "first_apparition": [
+      "Chapitre 1",
+      "Épisode 4"
+    ],
+    "current_user": "Monkey D Luffy",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f1/Gomu_Gomu_no_Mi_Fruit.png/revision/latest?cb=20190403191529&path-prefix=fr"
+  }, 
+  {
+    "_id": "2",
+    "nameFr": "Fruit de la Fragmentation",
+    "nameEn": "Chop-Chop Fruit",
+    "nameJp": "Bara Bara no Mi",
+    "type": "Paramecia",
+    "first_usage": [
+      "Chapitre 9",
+      "Épisode 5"
+    ],
+    "first_apparition": [
+      "Chapitre 19",
+      "Épisode 8"
+    ],
+    "current_user": "Baggy",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/94/Bara_Bara_no_Mi_Fruit_Anime_Concept_Art.png/revision/latest?cb=20201102142107&path-prefix=fr"
+  },
+  {
+    "_id": "3",
+    "nameFr": "Fruit Glisse-Glisse",
+    "nameEn": "Slip-Slip Fruit",
+    "nameJp": "Sube Sube no Mi",
+    "type": "Paramecia",
+    "first_usage": [
+      "Chapitre 51",
+      "Épisode 46"
+    ],
+    "first_apparition": "One Piece Magazine Vol. 10",
+    "current_user": "Alvida",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Sube_Sube_no_Mi_Fruit.png/revision/latest?cb=20200913123928&path-prefix=fr"
+  }, 
+  {
+    "_id": "4",
+    "nameFr": "Fruit Fumigène",
+    "nameEn": "Plume-Plume Fruit",
+    "nameJp": "Moku Moku no Mi",
+    "type": "Logia",
+    "first_usage": [
+      "Chapitre 97",
+      "Épisode 48"
+    ],
+    "first_apparition": "One Piece Magazine Vol. 10",
+    "current_user": "Smoker",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Moku_Moku_no_Mi_Fruit.png/revision/latest?cb=20200913123850&path-prefix=fr"
+  }, 
+  {
+    "_id": "5",
+    "nameFr": "Fruit Boum-Boum",
+    "nameEn": "Boom-Boom Fruit",
+    "nameJp": "Bomu Bomu no Mi",
+    "type": "Paramecia",
+    "first_usage": [
+      "Chapitre 110",
+      "Épisode 65"
+    ],
+    "first_apparition": "One Piece Magazine Vol. 11",
+    "current_user": "Mr. 5 AKA Gem",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Bomu_Bomu_no_Mi_Fruit.png/revision/latest?cb=20210204090236&path-prefix=fr"
+  }, 
+  {
+    "_id": "6",
+    "nameFr": "Fruit Kilo-Kilo",
+    "nameEn": "Kilo-Kilo Fruit",
+    "nameJp": "Kiro Kiro no Mi",
+    "type": "Paramecia",
+    "first_usage": [
+      "Chapitre 112",
+      "Épisode 66"
+    ],
+    "first_apparition": "One Piece Magazine Vol. 11",
+    "current_user": "Miss Valentine AKA Mikita",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Kilo_Kilo_no_Mi_Fruit.png/revision/latest?cb=20210204090329&path-prefix=fr"
+  }, 
+  {
+    "_id": "7",
+    "nameFr": "Fruit des Éclosions",
+    "nameEn": "Flower-Flower Fruit",
+    "nameJp": "Hana Hana no Mi",
+    "type": "Päramecia",
+    "first_usage": [
+      "Chapitre 114",
+      "Épisode 67"
+    ],
+    "first_apparition": "One Piece Magazine Vol. 6",
+    "current_user": "Nico Robin",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Hana_Hana_no_Mi_Fruit.png/revision/latest?cb=20190615160603&path-prefix=fr"
+  }, 
+  {
+    "_id": "8",
+    "nameFr": "Ciro-Fruit",
+    "nameEn": "Wax-Wax Fruit",
+    "nameJp": "Doru Doru no Mi",
+    "type": "Paramecia",
+    "first_usage": [
+      "Chapitre 118",
+      "Épisode 71"
+    ],
+    "first_apparition": "One Piece Magazine Vol. 9",
+    "current_user": "Mr. 3 AKA Galdino",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/38/Doru_Doru_no_Mi_Fruit.png/revision/latest?cb=20200507194553&path-prefix=fr"
+  }, 
+  {
+    "_id": "9",
+    "nameFr": "Fruit des Sables",
+    "nameEn": "Sand-Sand Fruit",
+    "nameJp": "Suna Suna no Mi",
+    "type": "Logia",
+    "first_usage": [
+      "Chapitre 127",
+      "Épisode 77"
+    ],
+    "first_apparition": "One Piece Magazine Vol. 12",
+    "current_user": "Crocodile",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/74/Suna_Suna_no_Mi_Fruit.png/revision/latest?cb=20220408185000&path-prefix=fr"
+  }, 
+  {
+    "_id": "10",
+    "nameFr": "Fruit du Glouton",
+    "nameEn": "Munch-Munch Fruit",
+    "nameJp": "Baku Baku no Mi",
+    "type": "Paramecia",
+    "first_usage": [
+      "Chapitre 131",
+      "Épisode 79"
+    ],
+    "first_apparition": "One Piece Magazine Vol. 9",
+    "current_user": "Wapol",
+    "previous_user": "Inconnu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Baku_Baku_no_Mi_Fruit.png/revision/latest?cb=20200507194549&path-prefix=fr"
+  }
+]
